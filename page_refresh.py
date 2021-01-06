@@ -14,7 +14,7 @@ while True:
 	sleep(2)
 	refresh += 1
 	
-	if refresh == #insert number or reloads
+	if refresh == #insert number of reloads
 	break
 
 
